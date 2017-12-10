@@ -3,7 +3,11 @@
 ![Actuary Hero](https://github.com/Infinite-Actuary/Fall-2017/blob/master/images/Actuary-Hero.jpg?raw=true)
 **Our hero moves to has been blugeoned by reality** *(study or perish)*
 
-## About
+## Notes
+
+* This semester I have been assigned to [Dr. Tannenbaum](https://cba.unl.edu/people/dtannenbaum/) as T.A. for ECON 417 (Intro to Econometrics).
+
+* According to the cohort ahead of me, STAT 883 & ACTS 870 will be two of the hardest courses you take throughout the program.
 
 ## Enrolled Classes
 
