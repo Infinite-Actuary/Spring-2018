@@ -7,7 +7,7 @@
 
 ## Enrolled Classes
 
-![Enrolled Classes]()
+![Enrolled Classes](https://github.com/Infinite-Actuary/Spring-2018/blob/master/images/Spring-2018-Enrolled.png)
 
 ## Full Schedule
 
