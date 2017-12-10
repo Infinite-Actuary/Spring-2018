@@ -8,12 +8,10 @@
 * This semester I have been assigned to [Dr. Tannenbaum](https://cba.unl.edu/people/dtannenbaum/) as a T.A. for [ECON 417](https://bulletin.unl.edu/undergraduate/courses/ECON/417). In addition to attending his class and keeping office hours, I will also be holding [recitation](https://www.urbandictionary.com/define.php?term=recitation).
 
 * According to the cohort ahead of me, the two hardest courses you take throughout the program are:
+  1. [STAT 883](https://bulletin.unl.edu/courses/STAT/883) - difficult material
+  2. [ACTS 870](https://bulletin.unl.edu/courses/ACTS/470) - difficult professor, [Colin Ramsay](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2115056)
 
-1. [STAT 883](https://bulletin.unl.edu/courses/STAT/883) - difficult material
-
-2. [ACTS 870](https://bulletin.unl.edu/courses/ACTS/470) - difficult professor, [Colin Ramsay](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2115056)
-
-
+I will update with my own opinion after completeing (attempting to?) the course.
 
 ## Enrolled Classes
 
