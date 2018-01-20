@@ -7,8 +7,6 @@
 
 * This semester I have been assigned to [Dr. Tannenbaum](https://cba.unl.edu/people/dtannenbaum/) as a T.A. for [ECON 417](https://bulletin.unl.edu/undergraduate/courses/ECON/417). In addition to attending his class and keeping office hours, I will also be holding [recitation](https://www.urbandictionary.com/define.php?term=recitation).
 
-I will update with my own opinion after completeing (attempting to?) the course.
-
 ## Enrolled Classes
 
 ![Enrolled Classes](https://github.com/Infinite-Actuary/Spring-2018/blob/master/images/Spring-2018-Enrolled.png)
@@ -23,3 +21,8 @@ I will update with my own opinion after completeing (attempting to?) the course.
 `Derivatives Markets. 3rd ed. McDonald.` [ISBN-13 9780321543080](https://www.amazon.com/s/field-keywords=9780321543080)
 
 >Price to rent $119.30
+
+### ACTS 870 - [Life Contingencies I](https://bulletin.unl.edu/courses/ACTS/470)
+`Principles of Modern Life Contingencies. Course Manual 2018. Colin M. Ramsay`
+
+>Price to own $32.18
